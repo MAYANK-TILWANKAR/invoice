@@ -1,0 +1,92 @@
+{
+  "form": {
+    "title": "चालान",
+    "description": "चालान उत्पन्न करें",
+    "newInvBadge": "नया चालान",
+    "wizard": {
+      "fromAndTo": "से और को",
+      "invoiceDetails": "चालान विवरण",
+      "lineItems": "लाइन आइटम",
+      "paymentInfo": "भुगतान जानकारी",
+      "summary": "सारांश",
+      "next": "अगला",
+      "back": "पीछे"
+    },
+    "steps": {
+      "fromAndTo": {
+        "billFrom": "से बिल",
+        "billTo": "को बिल",
+        "name": "नाम",
+        "address": "पता",
+        "zipCode": "पिन कोड",
+        "city": "शहर",
+        "country": "देश",
+        "email": "ईमेल",
+        "phone": "फोन",
+        "addCustomInput": "कस्टम इनपुट जोड़ें",
+        "sender": "प्रेषक",
+        "receiver": "प्राप्तकर्ता"
+      },
+      "invoiceDetails": {
+        "heading": "चालान विवरण",
+        "invoiceLogo": {
+          "label": "चालान लोगो",
+          "placeholder": "छवि अपलोड करने के लिए क्लिक करें"
+        },
+        "invoiceNumber": "चालान संख्या",
+        "issuedDate": "जारी करने की तिथि",
+        "dueDate": "नियत तारीख",
+        "currency": "मुद्रा"
+      },
+      "lineItems": {
+        "heading": "आइटम",
+        "item": "आइटम",
+        "name": "नाम",
+        "quantity": "मात्रा",
+        "rate": "दर",
+        "total": "कुल",
+        "description": "विवरण",
+        "addNewItem": "नया आइटम जोड़ें",
+        "removeItem": "आइटम हटाएं"
+      },
+      "paymentInfo": {
+        "heading": "भुगतान जानकारी",
+        "bankName": "बैंक का नाम",
+        "accountName": "खाता नाम",
+        "accountNumber": "खाता संख्या"
+      },
+      "summary": {
+        "heading": "सारांश",
+        "signature": {
+          "heading": "हस्ताक्षर",
+          "placeholder": "हस्ताक्षर जोड़ने के लिए क्लिक करें",
+          "draw": "चित्र बनाएं",
+          "type": "टाइप करें",
+          "upload": "अपलोड करें"
+        },
+        "additionalNotes": "अतिरिक्त नोट्स",
+        "paymentTerms": "भुगतान की शर्तें",
+        "discount": "छूट",
+        "tax": "कर",
+        "shipping": "शिपिंग",
+        "subTotal": "उप-योग",
+        "totalAmount": "कुल राशि",
+        "includeTotalInWords": "कुल राशि शब्दों में शामिल करें?",
+        "yes": "हाँ",
+        "no": "नहीं"
+      }
+    }
+  },
+  "actions": {
+    "title": "कार्रवाइयाँ",
+    "description": "संचालन और पूर्वावलोकन",
+    "loadInvoice": "चालान लोड करें",
+    "exportInvoice": "चालान निर्यात करें",
+    "newInvoice": "नया चालान",
+    "generatePdf": "पीडीएफ उत्पन्न करें",
+    "pdfView": "पीडीएफ दृश्य"
+  },
+  "footer": {
+    "developedBy": "द्वारा विकसित"
+  }
+}
